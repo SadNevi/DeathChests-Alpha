@@ -1,4 +1,4 @@
-DeathChests-Alpha
+# DeathChests-Alpha
 # SAVE YOUR ITEMS ON DEATH!
 ~ THIS PLUGIN SUPPORT 1.14.4
 
@@ -9,3 +9,5 @@ DeathChests-Alpha
 WARNING: PLUGIN IS NOT WORK:
 
 ~ PLASE WAIT NEW VERSION!
+# PATCH NOTES FOR 0.0.1
+~ Added first vertsion
